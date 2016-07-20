@@ -9,5 +9,7 @@ public class WordUtil {
 	public static void createWord() throws Exception{
 		
 		System.out.println("≤‚ ‘");
+		
+		int e=1;
 	}
 }
