@@ -10,6 +10,6 @@ public class WordUtil {
 		
 		System.out.println("≤‚ ‘");
 		
-		int e=12;
+		int e=134;
 	}
 }
