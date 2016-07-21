@@ -12,6 +12,8 @@ public class WordUtil {
 
 		int e=15;
 		
-		System.out.print("1111");
+		System.out.print("3333");
+		
+		int q=12;
 	}
 }
