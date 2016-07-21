@@ -9,7 +9,9 @@ public class WordUtil {
 	public static void createWord() throws Exception{
 		
 		System.out.println("≤‚ ‘");
+
+		int e=200;
 		
-		int e=134;
+		System.out.print("1111");
 	}
 }
