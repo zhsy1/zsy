@@ -10,7 +10,7 @@ public class WordUtil {
 		
 		System.out.println("≤‚ ‘");
 
-		int e=200;
+		int e=125;
 		
 		System.out.print("1111");
 	}
